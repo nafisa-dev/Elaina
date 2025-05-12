@@ -41,7 +41,7 @@ Skrip ini dibuat oleh [Nafisa](https://github.com/nafisa-dev) menggunakan Node.j
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Kreiga/Elaina 
+git clone https://github.com/nafisa-dev/Elaina 
 cd Elaina 
 npm install
 npm update
@@ -54,7 +54,7 @@ pkg install git
 pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
-git clone https://github.com/Kreiga/Elaina
+git clone https://github.com/nafisa-dev/Elaina
 cd Elaina 
 npm install
 node start.js
