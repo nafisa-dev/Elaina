@@ -3,16 +3,16 @@ const chalk = require('chalk');
 
 /*
 	* Create By Naze
-	* Follow https://github.com/Kreiga
-	* Whatsapp : https://chat.whatsapp.com/BkNdgz74mRpKWU0ByCbhgr
+	* Follow https://github.com/nazedev
+	* Whatsapp : https://whatsapp.com/channel/0029VaWOkNm7DAWtkvkJBK43
 */
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['6283194988023'] //['628','628'] 2 owner
-global.packname = 'Elaina - MD'
-global.author = 'Elaina - MD'
-global.botname = 'Elaina - MD'
+global.owner = ['6282113821188'] //['628','628'] 2 owner
+global.packname = 'Bot WhatsApp'
+global.author = 'Nazedev'
+global.botname = 'Naze Bot'
 global.listprefix = ['+','!','.']
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json' // Taruh url mongodb di sini jika menggunakan mongodb. Format : 'mongodb+srv://...'
@@ -21,16 +21,16 @@ global.number_bot = '' // Kalo pake panel bisa masukin nomer di sini, jika belum
 
 global.fake = {
 	anonim: 'https://telegra.ph/file/95670d63378f7f4210f03.png',
-	thumbnailUrl: '-',
+	thumbnailUrl: 'https://telegra.ph/file/fe4843a1261fc414542c4.jpg',
 	thumbnail: fs.readFileSync('./src/media/naze.png'),
 	docs: fs.readFileSync('./src/media/fake.pdf'),
 	listfakedocs: ['application/vnd.openxmlformats-officedocument.spreadsheetml.sheet','application/vnd.openxmlformats-officedocument.presentationml.presentation','application/vnd.openxmlformats-officedocument.wordprocessingml.document','application/pdf'],
 }
 
 global.my = {
-	yt: 'https://-',
-	gh: 'https://-',
-	gc: 'https://chat.whatsapp.com/BkNdgz74mRpKWU0ByCbhgr
+	yt: 'https://youtube.com/c/Nazedev',
+	gh: 'https://github.com/nazedev',
+	gc: 'https://chat.whatsapp.com/B5qJIwZHm4VEYZJQE6iMwy',
 	ch: '120363250409960161@newsletter',
 }
 
