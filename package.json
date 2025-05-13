@@ -1,5 +1,5 @@
 {
-  "name": "Elaina - MD",
+  "name": "hitori",
   "version": "1.0.6",
   "description": "Bot WhatsApp Using Lib Baileys Multi Device",
   "main": "start.js",
@@ -15,7 +15,7 @@
     "bot-wa",
     "multi-device"
   ],
-  "author": "Nafisa",
+  "author": "Nazedev",
   "license": "MIT",
   "directories": {
     "lib": "lib",
@@ -88,4 +88,3 @@
     "url": "https://github.com/nazedev/hitori/issues"
   },
   "homepage": "https://github.com/nazedev/hitori#readme"
-}
